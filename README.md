@@ -26,18 +26,8 @@ Payment
 
 Testing Activities:
 
-Test Scenario Creation, Test Case Design, Functional Testing, Positive & Negative Testing, Boundary Value Testing
+Test Scenario Creation, Test Case Design, Functional Testing, Positive & Negative Testing, Boundary Value Testing, End-to-End Testing
+
+Tools: TestRail
 
 
-
-
-
-
-
-
-End-to-End Testing
-
-
-Tools:
-
-TestRail
